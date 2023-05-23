@@ -13,7 +13,7 @@ def download_audio(url):
         print("Ocorreu um erro durante o download do áudio:", str(e))
 
 
-# Exemplo de uso
+# Adicione as urls de vídeos para baixar o áudio na lista abaixo
 urls = []
 
 for url in urls:
